@@ -1,0 +1,43 @@
+{
+    "url": "https://api.mercadopublico.cl/servicios/v1/publico/licitaciones.json",
+    "palabras_clave": [
+        "educación técnica profesional",
+        "EMTP",
+        "formación dual",
+        "alternancia",
+        "competencias laborales",
+        "vinculación con la empresa",
+        "capacitación docente TP",
+        "prácticas profesionales",
+        "ABP",
+        "ABS",
+        "SLEP",
+        "ISO",
+        "ERP",
+        "automatización",
+        "convivencia escolar",
+        "5S",
+        "robótica educativa",
+        "makerspaces",
+        "innovación educativa",
+        "inteligencia artificial",
+        "hidrógeno verde",
+        "metodologías activas",
+        "articulación",
+        "Actualización docente",
+        "ajuste curricular",
+        "currículum",
+        "Bim",
+        "Fablab",
+        "Archicad",
+        "worldskills",
+        "liderazgo pedagógico",
+        "Educación"
+    ],
+    "stop_words": [
+        "la", "el", "de", "del", "en", "y", "a", "con", "para", "por", "un", "una", 
+        "los", "las", "al", "se", "su", "que", "es", "le", "lo", "da", "te", "me",
+        "si", "no", "o", "pero", "como", "cuando", "donde", "cual", "mas", "muy",
+        "todo", "toda", "todos", "todas", "este", "esta", "estos", "estas"
+    ]
+}
